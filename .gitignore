@@ -1,0 +1,26 @@
+# Python virtual environments
+.venv/
+**/.venv/
+
+# Python bytecode and caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Uploads and local runtime artifacts
+uploads/
+**/uploads/
+*.db
+
+# Build output
+/dist/
+/build/
+
+# Environment files
+.env
